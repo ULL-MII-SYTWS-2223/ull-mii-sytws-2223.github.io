@@ -434,7 +434,7 @@
   {
     "title": "Servicios y Aplicaciones Web",
     "excerpt": "\n",
-    "content": "The Browser, The DOM, Events, Form Fields\n\nPráctica del DOM p4-t3-dom\n\n\n  Descripción de la práctica p4-t3-dom\n\n\nEjercicios del DOM\n\n\n  Ejercicios del DOM\n\n\nHTTP\n\nWebSockets\n\nPrácticas\n\n\n  Descripción de la práctica p5-t3-websockets\n\n\nWeb Application Bundlers: Webpack, Parcel\n\nWeb Workers\n\nCORS\n\nREST\n\nAuthentication\n\n\n\nWeb Scrapping\n\nBases de Datos y Motores de Búsqueda\n\nJekyll\n\nHugo\n\nGastby\n\nReact\n\nGraphQL\n\nThe JAM Stack\n\nServerless\n\nDesktop Apps using Web Technologies\n\nExtending Visual Studio Code\n\nWebAssembly\n\nTools for Static Blogs\n\nProcess-managers\n\nVue\n\n\n  Full Stack Web App using Vue.js and Express\n\n",
+    "content": "The Browser, The DOM, Events, Form Fields\n\nPráctica del DOM p4-t3-dom\n\n\n  Descripción de la práctica p4-t3-dom\n\n\nEjercicios del DOM\n\n\n  Ejercicios del DOM\n\n\nHTTP\n\nWebSockets\n\nPrácticas\n\n\n  Descripción de la práctica p5-t3-websockets\n\n\nWeb Application Bundlers: Webpack, Parcel\n\nWeb Workers\n\nCORS\n\nREST\n\nAuthentication\n\n\n\nWeb Scrapping\n\nBases de Datos y Motores de Búsqueda\n\nJekyll\n\nHugo\n\nGastby\n\nReact\n\nGraphQL\n\n\n  Handling authentication in your GraphQL-powered Vue app by Anjolaoluwa Adebayo-Oyetoro\n\n\nThe JAM Stack\n\nServerless\n\nDesktop Apps using Web Technologies\n\nExtending Visual Studio Code\n\nWebAssembly\n\nTools for Static Blogs\n\nProcess-managers\n\nVue\n\n\n  Full Stack Web App using Vue.js and Express\n\n",
     "url": "/tema3-web/README.html"
   },
   
